@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meeting Street Sweets </string>
+    <string name="name">Meeting Street\nSweets</string>
+    <string name="address">258 Meeting St.\nCharleston, SC 29401</string>
+    <string name="phone">(843) 737-0101</string>
+    <string name="about">about</string>
+    <string name="hours">hours</string>
+    <string name="menu">menu</string>
+</resources>
