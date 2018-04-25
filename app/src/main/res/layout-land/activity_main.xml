@@ -70,19 +70,19 @@
             android:layout_toRightOf="@id/info"
             android:orientation="vertical">
 
-            <TextView
+            <Button
                 style="@style/button_land"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/about" />
 
-            <TextView
+            <Button
                 style="@style/button_land"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hours" />
 
-            <TextView
+            <Button
                 style="@style/button_land"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

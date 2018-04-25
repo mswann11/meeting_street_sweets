@@ -15,21 +15,23 @@
         <item name="android:background">@drawable/circle_pink</item>
         <item name="android:textStyle">bold</item>
         <item name="android:padding">@dimen/button_padding</item>
-        <item name="android:elevation">@dimen/shadow</item>
+        <item name="android:translationZ">@dimen/shadow</item>
         <item name="android:layout_marginRight">@dimen/button_margin</item>
         <item name="android:layout_marginLeft">@dimen/button_margin</item>
         <item name="android:layout_margin">@dimen/small</item>
+        <item name="android:textAllCaps">false</item>
     </style>
 
     <style name="button_land">
         <item name="android:layout_margin">@dimen/button_padding</item>
         <item name="android:background">@drawable/circle_pink</item>
-        <item name="android:elevation">@dimen/shadow</item>
+        <item name="android:translationZ">@dimen/shadow</item>
         <item name="android:fontFamily">casual</item>
         <item name="android:padding">@dimen/button_padding</item>
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">@dimen/text_med</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
     </style>
 
 </resources>

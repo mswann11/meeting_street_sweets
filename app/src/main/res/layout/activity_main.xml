@@ -62,19 +62,19 @@
             android:gravity="center"
             android:orientation="horizontal">
 
-            <TextView
+            <Button
                 style="@style/button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/about" />
 
-            <TextView
+            <Button
                 style="@style/button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/hours" />
 
-            <TextView
+            <Button
                 style="@style/button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
